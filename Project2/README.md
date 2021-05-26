@@ -1,7 +1,10 @@
-1. The python code to run problem1 for the histogra equalization is hist_eq.py.
-2. The python code to run problem2 on dataset1 is dataset1.py.
-3. The python code to run problem2 on the challenge video is challenge_video.py
-4. The PDF file of the report for the project is project2_report.pdf.
+1.The python code to run problem1 for the histogra equalization is hist_eq.py.
+
+2.The python code to run problem2 on dataset1 is dataset1.py.
+
+3.The python code to run problem2 on the challenge video is challenge_video.py.
+
+4.The PDF file of the report for the project is project2_report.pdf.
 
 
 hist_eq.py performs the histogram equalization on the provided video.
